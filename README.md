@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sakshi Singh 😊
 - 👀 I’m interested in learning new things and doing projects 
-- 🌱 I’m currently learning C/C++,AIML in python from AWS Academy Machine Learning Foundations [7108].
+- 🌱 I have learned  C/C++,AIML in python from AWS Academy Machine Learning Foundations [7108].
+- I'm currently learning web development 
 
 
 - 💞️ I’m looking to collaborate on some projects on C/C++ and AIML
