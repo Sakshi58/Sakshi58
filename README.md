@@ -4,7 +4,7 @@
 - I'm currently learning web development 
 
 
-- 💞️ I’m looking to collaborate on some projects on C/C++ and AIML
+- 💞️ I’m looking to collaborate on some projects on C/C++ and Core JAVA
 - 📫 How to reach me @sakshisingh.ss58@gmail.com 
 
 <!---
